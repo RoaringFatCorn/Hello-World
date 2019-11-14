@@ -1,4 +1,2 @@
 # Hello-World
-Read for myself!测试
-再加一句！
-我的新分支！
+删掉了以前的文字，这是新分支。
